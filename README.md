@@ -1,4 +1,4 @@
-# JS_ING2
+# Java Script Project
 Javascript repository for the final project of INGE2
 
 - Meline Libert
