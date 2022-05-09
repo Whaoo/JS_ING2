@@ -1,5 +1,6 @@
 # Java Script Project
 Project of fourth year students in engineering school.
+
 Project aiming at creating a dataloader which gives a set of equiprobable data, apply the Khi² / Chi² and then apply a PCA
 
 # Authors (A to Z)
