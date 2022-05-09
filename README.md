@@ -9,9 +9,9 @@ Javascript repository for the final project of INGE2
 - DURAND Thomas
 - FLAMENT Florentin
 - GIDROL Louis
-- MASRIERA Edouard
 - LAURENT Louis
 - LIBERT Méline
+- MASRIERA Edouard
 
 # Supervising Professor
 Maxime ROBIN (https://github.com/Waxo)
