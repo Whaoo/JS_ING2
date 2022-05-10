@@ -24,7 +24,7 @@ Yarn (software packaging system):
 https://classic.yarnpkg.com/lang/en
 
 Ramda (functional programming library in JS):
-https://ramdajs.com
+https://ramdajs.com 
 
 Node and npm (runtime environment and software packaging system):
 https://nodejs.org/
