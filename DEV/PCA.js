@@ -30,7 +30,7 @@ const computePCA = (data) =>{
 
 
 
-//Get the data from CSV
+//Get the data from the dataset_wine CSV
 const data=CSVtoArray('./dataset_wine.csv')
 
 //Create the train and test set
