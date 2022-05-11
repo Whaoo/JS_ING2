@@ -20,7 +20,7 @@ Maxime ROBIN (https://github.com/Waxo)
 
 Les fichiers ci-joints permettent de lancer les différents fichiers javascripts : Un test d'application du Khi², le PCA appliqué sur un train et un test. 
 
-# How to ? : 
+# How to : 
 
 ##### use gulp : 
 ```
