@@ -1,7 +1,7 @@
 # Java Script Project
 Project of fourth year students in engineering school.
 
-Project aiming at creating a dataloader which gives a set of equiprobable data, apply the Khi² / Chi² and then apply a PCA
+Project aiming at creating a dataloader which gives a set of equiprobable data, apply the Khi² / Chi² and then applying a PCA.
 
 # Authors (A to Z)
 
@@ -17,8 +17,25 @@ Project aiming at creating a dataloader which gives a set of equiprobable data, 
 Maxime ROBIN (https://github.com/Waxo)
 
 # Documentations
-[insert doc]
 
+Les fichiers ci-joints permettent de lancer les différents fichiers javascripts : Un test d'application du Khi², le PCA appliqué sur un train et un test. 
+
+# How to ? : 
+
+## Utiliser gulp : 
+
+node --version
+npm --version
+npx --version
+
+npm install --global gulp-cli
+npx mkdirp my-project
+cd my-project
+npm init
+npm install --save-dev gulp
+gulp --version
+
+Launch the gulpfile with the command : gulp
 # Libraries
 Yarn (software packaging system):
 https://classic.yarnpkg.com/lang/en
