@@ -1,8 +1,9 @@
-const PCA = require('pca-js');
-const R = require('ramda');
-const csv = require('jquery-csv');
-const fs = require('fs');
-const ts = require('train-test-split')
+import PCA from 'pca-js';
+import * as R from 'ramda';
+import csv from 'jquery-csv';
+import fs from 'fs';
+import ts from 'train-test-split';
+
 
 
 //Function to convert CSV file to Array :
