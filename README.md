@@ -22,8 +22,8 @@ Les fichiers ci-joints permettent de lancer les différents fichiers javascripts
 
 # How to ? : 
 
-## Utiliser gulp : 
-
+##### Utiliser gulp : 
+```
 node --version
 npm --version
 npx --version
@@ -34,8 +34,8 @@ cd my-project
 npm init
 npm install --save-dev gulp
 gulp --version
-
-Launch the gulpfile with the command : gulp
+```
+Launch the gulpfile with the command : ```gulp```
 # Libraries
 Yarn (software packaging system):
 https://classic.yarnpkg.com/lang/en
