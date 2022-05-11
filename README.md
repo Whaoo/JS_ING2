@@ -22,7 +22,7 @@ Les fichiers ci-joints permettent de lancer les différents fichiers javascripts
 
 # How to ? : 
 
-##### Utiliser gulp : 
+##### use gulp : 
 ```
 node --version
 npm --version
