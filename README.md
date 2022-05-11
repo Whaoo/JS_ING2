@@ -18,9 +18,18 @@ Maxime ROBIN (https://github.com/Waxo)
 
 # Documentations
 
-Les fichiers ci-joints permettent de lancer les différents fichiers javascripts : Un test d'application du Khi², le PCA appliqué sur un train et un test. 
+The attached files are used to launch the different javascripts: a Chi-square application test, the PCA applied to a train and a test.
 
 # How to : 
+
+##### Install the modules  : 
+```
+npm install pca-js
+npm install jquery-csv
+npm install fs
+npm install train-test-split
+npm install ramda
+```
 
 ##### Use gulp : 
 ```
