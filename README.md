@@ -65,3 +65,9 @@ https://nodejs.org/
 
 Gulp (auto script starter):
 https://gulpjs.com
+
+Mocha (auto tests) : 
+https://mochajs.org
+
+xo (ESLint wrapper) : 
+https://github.com/xojs/xo
