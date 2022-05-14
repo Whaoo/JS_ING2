@@ -49,10 +49,21 @@ cd my-project
 // Create a package.json file
 npm init
 
-// Install the gulp package
+// Install the gulp package globaly 
 npm install --save-dev gulp
 ```
 Launch the gulpfile with the command : ```gulp```
+
+##### Use Mocha : 
+```
+
+// Install with npm 
+npm install --global mocha
+npm install mocha
+mkdir test
+EDITOR test/test.js # or open with your favorite editor
+```
+
 # Libraries
 Yarn (software packaging system):
 https://classic.yarnpkg.com/lang/en
