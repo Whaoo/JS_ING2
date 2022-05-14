@@ -33,7 +33,6 @@ npm install ramda
 
 ##### Use gulp : 
 ```
-
 // Check your node, npm and npx versions
 node --version
 npm --version
@@ -56,12 +55,16 @@ Launch the gulpfile with the command : ```gulp```
 
 ##### Use Mocha : 
 ```
-
 // Install with npm 
 npm install --global mocha
 npm install mocha
 mkdir test
-EDITOR test/test.js # or open with your favorite editor
+$EDITOR test/test.js # or open with your favorite editor
+// Edit it, then on the terminal go 
+./node_modules/mocha/bin/mocha
+// Set up the test script in package.json 
+// run 
+npm test
 ```
 
 # Libraries
