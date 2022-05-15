@@ -3,9 +3,12 @@ Project of fourth year students in engineering school.
 
 Project aiming at creating a dataloader which gives a set of equiprobable data, apply the Khi² / Chi² and then applying a PCA.
 
-Reading CSV file and putting it into an array. 
-Creating a trainset and testset.
-Applying PCA to the dataset. 
+- Reading CSV file and putting it into an array. 
+- Creating a trainset and testset.
+- Applying the Khi² / Chi².
+- Applying PCA to a dataset. 
+- Testing xo and mocha.
+
 
 # Authors (A to Z)
 
