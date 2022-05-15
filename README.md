@@ -49,8 +49,8 @@ npx --version
 npm install --global gulp-cli
 
 // Create a project directory and navigate into it
-npx mkdirp my-project
-cd my-project
+npx mkdirp JS_ING2
+cd JS_ING2
 
 // Create a package.json file
 npm init
