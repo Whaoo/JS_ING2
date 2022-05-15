@@ -7,6 +7,17 @@ const watcher = async () => {
 	watch(['./**/*.js'], series(stop, start));
 };
 
+gulp.task('js', function() {
+    return gulp.src([
+        source + '/js/libs/jquery.js',
+        source + '/js/libs/touche.js',
+        source + '/js/app.js'
+    ])
+        .pipe(concat())
+        .pipe(uglify())
+        .pipe(gulp.dest(dest + '/js/dist.js'));
+});
+
 const start = async () => {
 	myProcess = spawn('node', ['index.js'], {stdio: 'inherit'});
 };
