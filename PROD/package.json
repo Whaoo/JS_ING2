@@ -1,0 +1,29 @@
+{
+  "name": "projetjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stdlib/ndarray-array": "^0.0.9",
+    "@stdlib/stats-chi2test": "^0.0.8",
+    "chi-sq-test": "^2.0.1",
+    "chi-squared-test": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "jquery-csv": "^1.0.21",
+    "lib": "^4.3.3",
+    "mocha": "^10.0.0",
+    "pca-js": "^1.0.2",
+    "ramda": "^0.28.0",
+    "train-test-split": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
