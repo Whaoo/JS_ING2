@@ -74,6 +74,21 @@ $EDITOR test/test.js # or open with your favorite editor
 npm test
 ```
 
+##### Use xo : 
+
+```
+// Install with npm 
+npm install xo --save-dev
+// init 
+npm init xo
+// run
+npm test
+xo 
+// fix 
+xo --fix 
+xo --ignore=test\test.js
+```
+
 # Libraries
 Yarn (software packaging system):
 https://classic.yarnpkg.com/lang/en
