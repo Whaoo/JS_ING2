@@ -16,7 +16,7 @@ gulp.task('js', function() {
         .pipe(gulp.dest(dest + '/js/dist.js'));
 });
 const start = async () => {
-    myProcess = spawn('node', ['PCA.js'], {stdio: 'inherit'});
+    myProcess = spawn('node', ['index.js'], {stdio: 'inherit'});
 };
 const stop = async () => {
     if (myProcess) {
