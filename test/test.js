@@ -1,8 +1,0 @@
-import assert from 'assert';
-describe('Array', function () {
-    describe('#indexOf()', function () {
-        it('should return done when the value is not present', function () {
-            assert.equal([1, 2, 3].indexOf("4"), 1);
-        });
-    });
-});
